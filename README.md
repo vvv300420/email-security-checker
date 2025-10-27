@@ -27,7 +27,6 @@ email-security-checker/
 ├── smtp_config.json ← параметры SMTP-соединения
 ├── spam_model.pkl ← обученная модель машинного обучения
 ├── requirements.txt ← зависимости проекта
-│
 ├── README.md ← описание проекта
 │
 ├── data/ ← примеры писем для обучения модели
@@ -106,8 +105,9 @@ python train_model.py
 📋 Пример команды для тестирования:
 python main.py
 После этого проверь логи и убедись, что все этапы тестирования прошли успешно!
+📸 Интерфейс
 👨‍💻 Автор
 Вера Тарасенко
 Финансовый университет при Правительстве РФ
-E-mail: tarasenkovera92@gmail.com
+E-mail: Tarasenkovera92@gmail.com
 GitHub: github.com/vvv300420
