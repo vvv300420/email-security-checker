@@ -1,0 +1,20 @@
+2025-05-17 11:04:56,076 - INFO - Конфигурация спам-фильтра загружена
+2025-05-17 11:04:57,578 - WARNING - ⚠️ Обнаружен подозрительный URL паттерн 'tinyurl.com' в ссылке 'http://tinyurl.com/fast-money-system'
+2025-05-17 11:04:57,578 - WARNING - ⚠️ Обнаружен подозрительный URL паттерн 'tinyurl.com' в ссылке 'http://tinyurl.com/fast-money-system'
+2025-05-17 11:04:58,635 - INFO - Уведомление отправлено: 🚫 Обнаружен спам!
+2025-05-17 11:05:29,226 - INFO - Конфигурация спам-фильтра загружена
+2025-05-17 11:05:34,241 - INFO - Конфигурация спам-фильтра загружена
+2025-05-17 12:16:05,600 - INFO - Конфигурация спам-фильтра загружена
+2025-05-17 12:16:05,630 - email_processor - INFO - Connecting to IMAP server: imap.mail.ru
+2025-05-17 12:16:05,630 - INFO - Connecting to IMAP server: imap.mail.ru
+2025-05-17 12:16:06,845 - email_processor - INFO - Successfully connected to IMAP server
+2025-05-17 12:16:06,845 - INFO - Successfully connected to IMAP server
+2025-05-17 12:16:06,846 - email_processor - INFO - Connecting to SMTP server: smtp.mail.ru
+2025-05-17 12:16:06,846 - INFO - Connecting to SMTP server: smtp.mail.ru
+2025-05-17 12:16:08,170 - email_processor - INFO - Successfully connected to SMTP server
+2025-05-17 12:16:08,170 - INFO - Successfully connected to SMTP server
+2025-05-17 12:16:08,680 - email_processor - INFO - No new messages found
+2025-05-17 12:16:08,680 - INFO - No new messages found
+2025-05-17 12:16:09,184 - email_processor - INFO - Successfully disconnected from email servers
+2025-05-17 12:16:09,184 - INFO - Successfully disconnected from email servers
+2025-05-17 12:18:33,033 - INFO - Конфигурация спам-фильтра загружена

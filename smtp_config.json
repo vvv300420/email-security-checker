@@ -1,0 +1,8 @@
+{
+    "email": "your.name@mail.ru",
+    "password": "abcd efgh ijkl mnop",
+    "imap_server": "imap.mail.ru",
+    "smtp_server": "smtp.mail.ru",
+    "smtp_port": 465,
+    "imap_port": 993
+}
